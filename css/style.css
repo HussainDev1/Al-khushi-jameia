@@ -32,13 +32,6 @@ img {
    width: 100%;
 }
 
-small {
-   font-size: 12px;
-   letter-spacing: 2px;
-   font-weight: 700;
-   text-transform: uppercase;
-}
-
 section {
    padding-top: 100px;
    padding-bottom: 100px;
